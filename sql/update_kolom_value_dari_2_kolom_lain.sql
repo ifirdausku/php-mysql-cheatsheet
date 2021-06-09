@@ -1,0 +1,1 @@
+UPDATE namatabel SET kolom_yang_diupdate=CONCAT(kolom1,'-',kolom2) WHERE kolom = 'isikolomnya';
