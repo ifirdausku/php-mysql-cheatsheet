@@ -1,0 +1,1 @@
+SELECT * FROM tabel WHERE DATE(datetime_field) = '30-11-2021'
