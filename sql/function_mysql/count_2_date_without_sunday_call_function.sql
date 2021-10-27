@@ -1,0 +1,2 @@
+SELECT TOTAL_WEEKDAYS('2021-10-01', '2021-10-07') weekdays1,
+       TOTAL_WEEKDAYS('2021-10-01', '2021-10-14') weekdays2;
